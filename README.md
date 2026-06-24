@@ -1,2 +1,2 @@
 # pomo-cat-releases
-Your Desktop Coding Companion and Health-Aware Desktop Cat
+Your Coding Companion and Health-Aware Desktop Cat
